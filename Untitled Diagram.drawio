@@ -1,55 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T13:56:15.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="jRLthvCH_6q7jkUZQEJX" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T15:04:23.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Jpm0gd1QkIMxELxmu3Gj" version="20.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1421" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lxEsPna4k-PO0xknT9Wp-479" value="" style="whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#000099;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="10" y="50.5" width="950" height="812" as="geometry" />
-        </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-40" value="End User Experience" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-450" width="699" height="481" as="geometry">
-            <mxRectangle width="699" height="481" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lxEsPna4k-PO0xknT9Wp-40" source="lxEsPna4k-PO0xknT9Wp-42" target="lxEsPna4k-PO0xknT9Wp-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-42" value="Drink latte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-40">
-          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-43" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-40">
-          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="70" y="10" width="950" height="812" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-83" value="tr" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="119" width="950" height="741" as="geometry" />
+          <mxGeometry x="70" y="78.5" width="950" height="741" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-326" value="Data Encyrption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="230" width="90" height="40" as="geometry" />
+          <mxGeometry x="800" y="189.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-327" value="API connection with other platforms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="800" y="239.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-329" value="Data Validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="282" width="90" height="40" as="geometry" />
+          <mxGeometry x="451" y="241.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-330" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000099;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.client_firewall;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="120" y="65" width="60" height="51" as="geometry" />
+          <mxGeometry x="180" y="24.5" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-332" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000099;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.access_switch_2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="63" width="60" height="51" as="geometry" />
+          <mxGeometry x="870" y="22.5" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-333" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000099;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.adaptive_security_appliance_2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="65" width="60" height="51" as="geometry" />
+          <mxGeometry x="640" y="24.5" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-334" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000099;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.cisco_cloud_web_security;" vertex="1" parent="1">
-          <mxGeometry x="350" y="65" width="60" height="51" as="geometry" />
+          <mxGeometry x="410" y="24.5" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-335" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="595" width="230" as="geometry" />
+          <mxGeometry x="800" y="554.5" width="230" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="" style="shape=table;childLayout=tableLayout;startSize=0;collapsible=0;recursiveResize=0;expand=0;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10" y="119" width="720" height="741" as="geometry" />
+          <mxGeometry x="70" y="78.5" width="720" height="741" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="Indicators" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#666666;fontColor=#333333;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry width="720" height="469" as="geometry" />
@@ -198,10 +184,10 @@
         <mxCell id="lxEsPna4k-PO0xknT9Wp-127" value="User Able to open the survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
           <mxGeometry x="10" y="10" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-129" value="User Interface is compatible with the end operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-129" value="User Interface is compatible with the end users device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
           <mxGeometry x="10" y="90" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-130" value="The Survey tool is working offline w/ poor connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-130" value="The Survey tool is working offline or w/ poor connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
           <mxGeometry x="10" y="170" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-131" value="Automatic Save is working" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-23">
@@ -223,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-45" value="Data storage and data export" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=#1ba1e2;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeWidth=0;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="730" y="119" width="230" height="510" as="geometry">
+          <mxGeometry x="790" y="78.5" width="230" height="510" as="geometry">
             <mxRectangle width="220" height="481" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -251,23 +237,23 @@
         <mxCell id="lxEsPna4k-PO0xknT9Wp-474" value="&lt;b&gt;DS-5&lt;br&gt;&lt;/b&gt;Pre-built data encryption" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="10" y="306" width="98" height="86.04" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-482" value="Data can be exported encrypted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-482" value="Data encyrption enforced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="120" y="556" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-483" value="Data Breach Protocol active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
-          <mxGeometry x="120" y="641" width="100" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-480" value="Data can be exported in various types" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="600" width="100" height="70" as="geometry" />
+          <mxGeometry x="800" y="559.5" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-481" value="API connection can be built" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="600" width="100" height="70" as="geometry" />
+          <mxGeometry x="910" y="559.5" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-484" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="739" y="680" width="100" height="70" as="geometry" />
+          <mxGeometry x="799" y="639.5" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-485" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="760" width="100" height="70" as="geometry" />
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-483" value="Data Breach Protocol active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="719.5" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-499" value="&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;Online Survey Tools Analysis for The IOM&amp;nbsp; Diaspora Mapping Toolkit 2022&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="70" y="822" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
