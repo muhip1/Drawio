@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T09:58:42.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="-XsmHlwI8wMFnjuvcOvm" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:06:40.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="HKh83l3AzBkzfJ88fgDz" version="20.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1778" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1421" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,10 +72,10 @@
           <mxGeometry x="10" y="160" width="99" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-101" value="&lt;b&gt;D-4&lt;/b&gt;&lt;br&gt;Form Builder" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
-          <mxGeometry x="10" y="266" width="99" height="44" as="geometry" />
+          <mxGeometry x="10" y="338" width="99" height="54" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-102" value="&lt;b&gt;D-3&lt;/b&gt; Online / Offline Deployment" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
-          <mxGeometry x="10" y="215" width="99" height="44" as="geometry" />
+          <mxGeometry x="10" y="279" width="99" height="54" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-104" value="&lt;b&gt;D- 5&lt;/b&gt;&lt;br&gt;Available question types" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
           <mxGeometry x="120" y="60" width="99" height="44" as="geometry" />
@@ -85,6 +85,12 @@
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-108" value="&lt;b&gt;D-7&lt;/b&gt;&lt;br&gt;Costs" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
           <mxGeometry x="120" y="160" width="99" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-486" value="&lt;b&gt;D-4.1&lt;/b&gt;&lt;br&gt;Complex skip logic" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
+          <mxGeometry x="10" y="399" width="99" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-487" value="&lt;b&gt;D-2.1&lt;br&gt;&lt;/b&gt;Required IT resources and skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-4">
+          <mxGeometry x="10" y="212.5" width="99" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Data collection and management" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=#dae8fc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#6c8ebf;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="260" width="230" height="469" as="geometry">
@@ -105,6 +111,9 @@
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-328" value="&lt;b&gt;DM-3&lt;br&gt;&lt;/b&gt;Data Validation" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-8">
           <mxGeometry x="120" y="161" width="98" height="43.52" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-489" value="&lt;b&gt;DM-1.1&lt;/b&gt;&lt;br&gt;Can the survey send automatic follow ups?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-8">
+          <mxGeometry x="10" y="117.48" width="98" height="72.52" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="End User Experience" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=#fff2cc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#d6b656;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="490" width="230" height="469" as="geometry">
@@ -207,37 +216,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-444" value="" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
-          <mxGeometry y="41" width="230" height="703" as="geometry" />
+          <mxGeometry y="40" width="230" height="704" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-135" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="-720" y="465" width="950" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-325" value="Data Export Options" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-325" value="&lt;b&gt;DS-1&lt;br&gt;&lt;/b&gt;Data Export Options" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="10" y="60" width="98" height="43.52" as="geometry" />
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-337" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
-          <mxGeometry y="-5" width="230" height="10" as="geometry" />
+          <mxGeometry x="-720" y="-5" width="950" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-470" value="API compatability" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-470" value="&lt;b&gt;DS-2&lt;br&gt;&lt;/b&gt;API compatability" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="10" y="111" width="98" height="43.52" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-471" value="Data breach Protocol" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-471" value="&lt;b&gt;DS-3&lt;br&gt;&lt;/b&gt;Data breach Protocol" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="10" y="161" width="98" height="43.52" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-472" value="Compatible with IOM Data protection principles" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-472" value="&lt;b&gt;DS-4&lt;br&gt;&lt;/b&gt;Compatible with IOM Data protection principles" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="10" y="211" width="98" height="86.04" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-473" value="Compatible with IOM Data protection principles" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-474" value="&lt;b&gt;DS-5&lt;br&gt;&lt;/b&gt;Pre-built data encryption" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="10" y="306" width="98" height="86.04" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-474" value="Pre-built data encryption" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
-          <mxGeometry x="120" y="60" width="98" height="86.04" as="geometry" />
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-482" value="Data can be exported encrypted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+          <mxGeometry x="120" y="556" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-115" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="694" width="60" height="60" as="geometry" />
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-483" value="Data Breach Protocol active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+          <mxGeometry x="120" y="641" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-134" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="694" width="100" height="60" as="geometry" />
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-485" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
+          <mxGeometry x="8" y="651" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-480" value="Data can be exported in various types" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="600" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-481" value="API connection can be built" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="600" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-484" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739" y="680" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
