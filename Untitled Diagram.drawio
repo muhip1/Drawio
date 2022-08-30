@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T13:02:05.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="t1x84lHc62Lz6xQDW6RV" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T13:56:15.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="jRLthvCH_6q7jkUZQEJX" version="20.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1421" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-489" value="&lt;b&gt;DM-1.1&lt;/b&gt;&lt;br&gt;Can the survey send automatic follow ups?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-8">
           <mxGeometry x="10" y="117.48" width="98" height="72.52" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-497" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;DM-3.1&lt;/b&gt;&lt;br&gt;Query Management&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-8">
+          <mxGeometry x="120" y="212.74" width="98" height="43.52" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="End User Experience" style="swimlane;swimlaneHead=0;swimlaneBody=0;connectable=0;fillColor=#fff2cc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#d6b656;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="490" width="230" height="469" as="geometry">
@@ -254,9 +257,6 @@
         <mxCell id="lxEsPna4k-PO0xknT9Wp-483" value="Data Breach Protocol active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
           <mxGeometry x="120" y="641" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxEsPna4k-PO0xknT9Wp-485" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lxEsPna4k-PO0xknT9Wp-45">
-          <mxGeometry x="8" y="651" width="100" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-480" value="Data can be exported in various types" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="600" width="100" height="70" as="geometry" />
         </mxCell>
@@ -265,6 +265,9 @@
         </mxCell>
         <mxCell id="lxEsPna4k-PO0xknT9Wp-484" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="739" y="680" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lxEsPna4k-PO0xknT9Wp-485" value="Data Protection Compatible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="760" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
